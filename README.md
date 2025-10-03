@@ -3,6 +3,13 @@
 
 A responsive, single-page e-commerce application built with vanilla JavaScript, featuring a modern design and seamless user experience.
 
+![Aura E-Commerce Website](./assets/Screenshot.png)
+*Home page showcasing the modern design and product grid*
+
+## 🚀 Live Demo
+
+[🔗 View Live Website](https://natnaelkornima.github.io/Aura/)
+
 ## 🚀 Features
 
 ### Core Functionality
@@ -165,4 +172,22 @@ Potential features for expansion:
 ---
 
 **Built with modern web standards and best practices for performance and accessibility.**
+
+---
+### 📞 Contact & Support
+
+For questions or support regarding this project:
+- 📧 Email: support@aura.com
+- 🌐 Website: [https://aura.com](https://aura.com)
+- 📍 Location: Ethiopia, Addis Ababa 1165
+
+---
+
+<div align="center">
+
+**⭐ Star this repository if you find it helpful!**
+
+</div>
 ```
+
+*Note: Replace the placeholder image URL with an actual screenshot of your website, and update the demo links with your actual domain when you deploy the site.*
