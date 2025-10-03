@@ -177,8 +177,9 @@ Potential features for expansion:
 ### 📞 Contact & Support
 
 For questions or support regarding this project:
-- 📧 Email: support@aura.com
-- 🌐 Website: [https://aura.com](https://aura.com)
+- 📧 Email: natnaelkornima78@gmail.com
+- 📞 Phone: +251978380005
+- 🌐 Website: [https://aura.com](https://natnaelkornima.github.io/Aura/)
 - 📍 Location: Ethiopia, Addis Ababa 1165
 
 ---
@@ -188,6 +189,3 @@ For questions or support regarding this project:
 **⭐ Star this repository if you find it helpful!**
 
 </div>
-```
-
-*Note: Replace the placeholder image URL with an actual screenshot of your website, and update the demo links with your actual domain when you deploy the site.*
